@@ -26,6 +26,6 @@ with webdriver.Chrome() as browser:
 
     alert = browser.switch_to.alert
     pyperclip.copy(alert.text.split()[-1])
-    time.sleep(5)
+    time.sleep(8)
 
 

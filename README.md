@@ -1,2 +1,2 @@
 # stepik_auto_test_lessons
-Tests
+Stepik Lesson 3.1
